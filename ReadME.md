@@ -54,7 +54,7 @@ For a narrative walkthrough, see `INTERPRETATION-for-ARIMA.pdf`, which discusses
 
 ### Installation and Usage
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/ARIMA-BhartiAirtel-Forecasting.git`
+   `git clone https://github.com/PNxZEN/ARIMA-BhartiAirtel-Forecasting.git`
 2. Open `ARIMA.Rproj` in RStudio.
 3. Ensure `data/BHARTIARTL.xlsx` is present (download from Kaggle if needed).
 4. Run the main script:  
